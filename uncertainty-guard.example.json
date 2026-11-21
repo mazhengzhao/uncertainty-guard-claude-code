@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "mediumThreshold": 0.6,
+  "highThreshold": 1.2,
+  "autoBlockThreshold": null,
+  "strictMode": false,
+  "maxStepsForBridge": 40,
+  "requestTimeoutMs": 5000,
+  "maxStepTextLength": 2000
+}

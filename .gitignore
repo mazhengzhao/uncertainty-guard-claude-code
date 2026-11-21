@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+*.pyc
+*.tgz
+.venv/
+.claude/
+.pi/
+dist/
+*.log
+.env
+.env.*
+.DS_Store

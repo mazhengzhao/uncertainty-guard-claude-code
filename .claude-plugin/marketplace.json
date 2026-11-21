@@ -1,0 +1,13 @@
+{
+  "name": "agent-confidence-plugins",
+  "description": "RUPA uncertainty guidance for Claude Code",
+  "owner": {"name": "Zhengzhao Ma"},
+  "plugins": [
+    {
+      "name": "uncertainty-guard",
+      "source": "./",
+      "description": "Local trajectory risk auditing and tool-call gating with RUPA",
+      "version": "0.1.0"
+    }
+  ]
+}

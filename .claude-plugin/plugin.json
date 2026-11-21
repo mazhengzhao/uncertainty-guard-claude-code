@@ -1,0 +1,17 @@
+{
+  "name": "uncertainty-guard",
+  "version": "0.1.0",
+  "description": "RUPA trajectory uncertainty auditing and tool-call gating for Claude Code.",
+  "author": {
+    "name": "Zhengzhao Ma",
+    "url": "https://github.com/mazhengzhao"
+  },
+  "homepage": "https://github.com/mazhengzhao/uncertainty-guard-claude-code#readme",
+  "repository": "https://github.com/mazhengzhao/uncertainty-guard-claude-code",
+  "license": "MIT",
+  "keywords": [
+    "uncertainty",
+    "rupa",
+    "tool-use"
+  ]
+}
